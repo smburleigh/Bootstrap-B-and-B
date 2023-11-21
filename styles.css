@@ -4,3 +4,17 @@
     color: white;
     font-family: 'Lobster', sans-serif;
 }
+
+header{
+    padding-top: 70px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+    text-align: center;
+}
+
+.maindesc{
+    text-align: center;
+    padding-bottom: 7px;
+}
